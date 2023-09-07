@@ -209,3 +209,66 @@
 .page-description-recent{
   text-align: left;
 }
+
+.about-company{
+  padding: 50px 0;
+}
+
+.about-description{
+  width: 600px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+.about-img{
+  width: 50%;
+  float: right;
+  margin-left: 20px;
+}
+
+.about-img img{
+  width: 100%;
+}
+
+.about-content p{
+  text-align: left;
+}
+
+.about-list{
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.about-list li{
+  list-style-type: none;
+  padding: 5px 0;
+}
+
+.about-list i{
+  color: #4674bd;
+  background: #ffffff;
+  padding: 5px 7px;
+  font-size: 10px;
+  margin-right: 10px;
+  border: 1px solid #4674bd;
+  border-radius: 100%;
+}
+
+.learnmore{
+  text-align: left;
+  float: left;
+  clear: left;
+}
+
+.learnmore a{
+  color: #ffffff;
+  background: #4674bd;
+  text-decoration: none;
+  display: block;
+  padding: 15px;
+}
+
+.learnmore a:hover{
+  background: #7b9bce;
+}
